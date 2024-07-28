@@ -10,7 +10,7 @@ import {
 
 export default function Links() {
   return (
-    <Flex pt="8px" width="82px" justify="space-between">
+    <Flex pt="8px" width="120px" justify="space-between">
       <Link
         href="https://twitter.com/samuelrujin511"
         isExternal
@@ -18,15 +18,13 @@ export default function Links() {
       >
         <FontAwesomeIcon icon={faTwitter} size="lg" />
       </Link>
-{/*
       <Link
-        href="https://github.com/StainerHenry"
+        href="https://github.com/altershadow"
         isExternal
         _hover={{ color: "blue.300" }}
       >
         <FontAwesomeIcon icon={faGithub} size="lg" />
       </Link>
-*/}
 {/*
       <Link
         href="https://www.linkedin.com/in/samuel-rujin511"
