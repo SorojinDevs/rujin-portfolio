@@ -14,7 +14,7 @@ export default function Intro() {
       >
         <Flex justify="center" align="center" flexDir={["column", "row"]}>
           <Box padding={["16px", "24px"]}>
-            <Avatar src="/samuelrujin.jpg" size="xl" />
+            <Avatar src="/favicon.png" size="xl" />
           </Box>
           <Flex flexDir="column" alignItems={["center", "stretch"]}>
             <Heading as="h1" fontSize={[36, 52]}>
