@@ -1,3 +1,3 @@
-## sergei.com
+## SamuelRujin.com
 
 My portfolio & personal website.
