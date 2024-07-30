@@ -14,7 +14,7 @@ const PERSONAL_PROJECTS = [
   },
   {
     href: "https://projectlarix.com/",
-    image: "/Solana Gate.PNG",
+    image: "/Solana Gate.png",
     title: "The Lending gateway of Solana",
     description: "Larix is the ultimate lending gateway on Solana, adopted a dynamic interest rate model and created more capital-efficient risk management pools.",
   },
@@ -28,7 +28,7 @@ const PERSONAL_PROJECTS = [
     href: "https://mymasterwar.com/",
     image: "/Mymaster.PNG",
     title: "Mymaster [NFT marketplace]",
-    description: "A revolutionary DeFI x NFT gaming ecosystem that integrates blockchain technology, Free Play to Earn, and a Staking model, allowing players to engage in immersive gameplay experiences without spending money, spanning from History to Fiction.",
+    description: "A revolutionary DeFI x NFT gaming ecosystem integrates Web3 Tech, Free Play to Earn, and a Staking model, allowing players to engage in immersive gameplay experiences without spending money, spanning from Ancient to Future.",
   },
   {
     href: "https://apps.apple.com/us/app/vip-billionaires-social-chat/id1076103571",
