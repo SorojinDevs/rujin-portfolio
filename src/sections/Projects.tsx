@@ -28,7 +28,7 @@ const PERSONAL_PROJECTS = [
     href: "https://mymasterwar.com/",
     image: "/Mymaster.PNG",
     title: "Mymaster [NFT marketplace]",
-    description: "MyMaster is a revolutionary DeFI x NFT gaming ecosystem that integrates blockchain technology, Free Play to Earn, and a Staking model, allowing players to engage in immersive gameplay experiences without spending money, spanning from historical battles in the Middle Ages to futuristic Virtual Metaverse Empires.",
+    description: "A revolutionary DeFI x NFT gaming ecosystem that integrates blockchain technology, Free Play to Earn, and a Staking model, allowing players to engage in immersive gameplay experiences without spending money, spanning from History to Fiction.",
   },
   {
     href: "https://apps.apple.com/us/app/vip-billionaires-social-chat/id1076103571",
